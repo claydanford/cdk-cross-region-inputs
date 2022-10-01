@@ -1,8 +1,8 @@
 {
-  "name": "cdk-scratch",
+  "name": "cdk-cross-region-inputs",
   "version": "0.1.0",
   "bin": {
-    "cdk-scratch": "bin/cdk-scratch.js"
+    "cdk-cross-region-inputs": "bin/cdk.js"
   },
   "scripts": {
     "build": "tsc",
